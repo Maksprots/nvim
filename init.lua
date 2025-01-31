@@ -37,7 +37,7 @@ require("lazy").setup({
   -- 🧠 Нейросети (Copilot, Codeium)
 { 'codota/tabnine-nvim', build = "./dl_binaries.sh" },
 "ray-x/telescope-ast-grep.nvim",
-"xavierchow/nvim-sshfs",
+"nosduco/remote-sshfs.nvim",
 "TimUntersberger/neogit",  -- Git UI как в LazyGit
   "nvim-lua/plenary.nvim",
 })
@@ -81,7 +81,7 @@ require("toggleterm").setup({
   direction = "float",
 })
 
-
+require('telescope').load_extension 'remote-sshfs'
 
 require('tabnine').setup({
   disable_auto_comment=true,

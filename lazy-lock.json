@@ -11,6 +11,7 @@
   "nvim-treesitter": { "branch": "master", "commit": "7e3942ceca9e0c28760f77ac33bc16399146d879" },
   "onedark.nvim": { "branch": "master", "commit": "67a74c275d1116d575ab25485d1bfa6b2a9c38a6" },
   "plenary.nvim": { "branch": "master", "commit": "3707cdb1e43f5cea73afb6037e6494e7ce847a66" },
+  "remote-sshfs.nvim": { "branch": "main", "commit": "03f6c40c4032eeb1ab91368e06db9c3f3a97a75d" },
   "tabnine-nvim": { "branch": "master", "commit": "0a3cdceb69494396dc83d91247d69bf28beaa73a" },
   "telescope-ast-grep.nvim": { "branch": "master", "commit": "fa7d7fa5c723b57bba333429224e99fde2a63632" },
   "telescope.nvim": { "branch": "master", "commit": "415af52339215926d705cccc08145f3782c4d132" },
